@@ -27,11 +27,13 @@ Once a player has laid their first run in a game, they can start adding to other
 
 Laying cards in runs is the only way to play a card in order to finish the game.
 
-Each player has three options on their turn:
+Each player then chooses one of three options on their turn:
 
 1. **Draw a card**: draw a single card from the top of the deck into their hand.
 2. **Burn a card**: burn a card and draw two cards from the top of the deck. Burning a card does not count as playing the card - if a player burns their last card, they should draw three cards instead of two. All "burn" cards join a discard pile; when the main draw pile is empty, the discard pile is shuffled and becomes the draw pile.
 3. **Trade for a card**: the player attempts to trade for a card in the middle. This initiates a **Card Trade** (see below).
+
+Once this action is complete, the next player's turn begins.
 
 #### Card Trade
 
